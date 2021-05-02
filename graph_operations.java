@@ -1,6 +1,6 @@
 /**
  *
- * @author Chitranshu Raj and Lavanya Khular
+ * @author Chitranshu Raj
  */
 
 package methods;
